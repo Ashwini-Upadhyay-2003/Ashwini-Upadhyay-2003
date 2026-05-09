@@ -9,7 +9,7 @@ Here are a few technologies I've been working with recently:
 
 Programming Languages:  Python, JavaScript, Java, C++ and C
 Frontend:  HTML5, CSS3, React
-Backend: Spring Boot 
+Backend: Spring Boot , Node.JS
 Databases:  MySQL, MongoDB
 Tools:  Git, GitHub, VS Code
 
