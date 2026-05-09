@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashwini-Upadhyay-2003
-- I'm a Second year student majoring in computer application at Microtek College of Management and Technology.
+- I have major in computer application at Microtek College of Management and Technology.
 -  I am passionate about learning and building projects in the fields of Java and  I love exploring new technologies and continuously working to improve my skills.
 🔭 Currently working on Spring Boot 
 🌱 Learning: DSA, React, Machine Learning, Blockchain]
